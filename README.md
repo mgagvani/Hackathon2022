@@ -1,3 +1,6 @@
+# Link to Code
+https://drive.google.com/file/d/1iXGd0tEliz_xBDv_v6-m2s_aGFFIAQpv/view?usp=sharing
+
 ## Inspiration
 When initially trying to figure out our project idea, we knew ML, AI and CV would be highly popular, however we wanted to try something new and attempt something that none of us have done before... a fullstack web3 application. Thus, we chose to do a project based on the DeSo blockchain in hopes that we could learn new things. We looked at some other apps using $DESO and found DiamondApp, used DiamondApp, similar to Twitter, as inspiration for UI design and function.
 ## What it does
